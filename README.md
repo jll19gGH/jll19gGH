@@ -9,7 +9,7 @@ Software engineer with experience designing, developing and maintaining well-cra
 * 🌍  I'm based in Orlando, FL
 * 🖥️  See my portfolio at [My Portfolio](http://main--playful-axolotl-6712b2.netlify.app/)
 * ✉️  You can contact me at [jll19g@outlook.com](mailto:jll19g@outlook.com)
-* 🧠  I'm learning Flutter and Figma
+* 🧠  I'm currently learning Flutter and Figma
 
 ### Skills
 
@@ -48,6 +48,7 @@ Software engineer with experience designing, developing and maintaining well-cra
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/jll19gGH" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jordanllocke/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
